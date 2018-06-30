@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: be26c10f406a8a34dba7ad97fdc5494d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube05
+    100002: Cube10
+    100004: Cube20
+    100006: Cylinder00
+    100008: Cylinder05
+    100010: Cylinder10
+    100012: Cylinder20
+    100014: Icosphere
+    100016: Octohedron00
+    100018: Octohedron05
+    100020: Octohedron10
+    100022: Octohedron20
+    100024: Pyramid00
+    100026: Pyramid05
+    100028: Pyramid10
+    100030: Pyramid20
+    100032: //RootNode
+    100034: SpinningTop
+    100036: SpinningTop00
+    100038: Star00
+    100040: Star05
+    100042: Star10
+    100044: Star20
+    100046: Torus
+    100048: Torus00
+    400000: Cube05
+    400002: Cube10
+    400004: Cube20
+    400006: Cylinder00
+    400008: Cylinder05
+    400010: Cylinder10
+    400012: Cylinder20
+    400014: Icosphere
+    400016: Octohedron00
+    400018: Octohedron05
+    400020: Octohedron10
+    400022: Octohedron20
+    400024: Pyramid00
+    400026: Pyramid05
+    400028: Pyramid10
+    400030: Pyramid20
+    400032: //RootNode
+    400034: SpinningTop
+    400036: SpinningTop00
+    400038: Star00
+    400040: Star05
+    400042: Star10
+    400044: Star20
+    400046: Torus
+    400048: Torus00
+    2100000: No Name
+    2300000: Cube05
+    2300002: Cube10
+    2300004: Cube20
+    2300006: Cylinder00
+    2300008: Cylinder05
+    2300010: Cylinder10
+    2300012: Cylinder20
+    2300014: Icosphere
+    2300016: Octohedron00
+    2300018: Octohedron05
+    2300020: Octohedron10
+    2300022: Octohedron20
+    2300024: Pyramid00
+    2300026: Pyramid05
+    2300028: Pyramid10
+    2300030: Pyramid20
+    2300032: SpinningTop
+    2300034: SpinningTop00
+    2300036: Star00
+    2300038: Star05
+    2300040: Star10
+    2300042: Star20
+    2300044: Torus
+    2300046: Torus00
+    3300000: Cube05
+    3300002: Cube10
+    3300004: Cube20
+    3300006: Cylinder00
+    3300008: Cylinder05
+    3300010: Cylinder10
+    3300012: Cylinder20
+    3300014: Icosphere
+    3300016: Octohedron00
+    3300018: Octohedron05
+    3300020: Octohedron10
+    3300022: Octohedron20
+    3300024: Pyramid00
+    3300026: Pyramid05
+    3300028: Pyramid10
+    3300030: Pyramid20
+    3300032: SpinningTop
+    3300034: SpinningTop00
+    3300036: Star00
+    3300038: Star05
+    3300040: Star10
+    3300042: Star20
+    3300044: Torus
+    3300046: Torus00
+    4300000: Icosphere
+    4300002: SpinningTop00
+    4300004: Torus00
+    4300006: Pyramid00
+    4300008: Octohedron00
+    4300010: Cylinder00
+    4300012: Star00
+    4300014: Star20
+    4300016: Star10
+    4300018: Octohedron20
+    4300020: Octohedron10
+    4300022: Star05
+    4300024: Torus
+    4300026: Cylinder20
+    4300028: Cylinder10
+    4300030: Cylinder05
+    4300032: SpinningTop
+    4300034: Pyramid20
+    4300036: Pyramid10
+    4300038: Pyramid05
+    4300040: Cube20
+    4300042: Cube10
+    4300044: Octohedron05
+    4300046: Cube05
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
