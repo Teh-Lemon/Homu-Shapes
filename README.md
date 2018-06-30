@@ -4,7 +4,8 @@ A collection of cute, UV mapped, rounded shapes.
 
 All roughly the size of a 1m cube.  
 Numbers after each mesh usually denotes the width of its bevel.  
-00 numbered meshes are low poly meshes to use as physics mesh colliders.
+00 numbered meshes are low poly meshes to use as physics mesh colliders.  
+Probably higher poly than they need to be but jagged edges aren't cute!
 
 [Install Instructions](Install.md)
 

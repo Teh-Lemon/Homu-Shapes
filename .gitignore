@@ -1,2 +1,5 @@
 *.blend1
 *.meta
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/Homu-Shapes/v15/.suo
