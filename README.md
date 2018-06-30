@@ -23,3 +23,7 @@ Numbers after each mesh usually denotes the width of its bevel.
 
 CC0 - Do what you want. These belong in the public domain.  
 See [LICENSE.txt](LICENSE.txt) for full details.
+
+## Homu Suite
+
+Also consider checking out the other packages in the [Homu Suite](https://github.com/search?q=Teh-Lemon%2FHomu) for Unity.
