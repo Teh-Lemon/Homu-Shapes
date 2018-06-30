@@ -22,4 +22,4 @@ Numbers after each mesh usually denotes the width of its bevel.
 ## License
 
 CC0 - Do what you want. These belong in the public domain.  
-See LICENSE.txt for full details.
+See [LICENSE.txt](LICENSE.txt) for full details.
